@@ -59,5 +59,5 @@ This endpoint makes a call to method in Service class which is connected to data
 
 ## Project Summary
 
-I have created Doctor App project using data source project.  In this project, In this project user  Can delete , update , get ,  can find. etc...
-
+The Doctor-Patient App is a web-based application designed to facilitate efficient communication and management between doctors and patients. The app allows patients to schedule appointments with doctor.
+Implemented CRUD operations with validations, connected the application to a MySQL database, utilized Swagger and Postman for API testing.
